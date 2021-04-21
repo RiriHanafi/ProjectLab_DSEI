@@ -11,4 +11,4 @@ Spreadsheet Progress: https://docs.google.com/spreadsheets/d/197U8BGjoNBaUVhm5Dr
 
 # Introduction
 
-This is a reposition for Project Lab Data Sosial-Ekonomi Indonesia arranged by Pacmann Course.
+This is a repository for Project Lab Data Sosial-Ekonomi Indonesia arranged by Pacmann Course.
