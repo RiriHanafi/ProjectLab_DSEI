@@ -2,10 +2,9 @@
 Pacmann Project Lab 1 Data Sosial-Ekonomi Indonesia
 
 Anggota Tim:
-Erwin Susetyo
-Kharis Adi R
-Laroybafi Ramadhano
-Silvia Riri Alvina
+- Erwin Susetyo
+- Kharis Adi R
+- Silvia Riri Alvina
 
 Spreadsheet Progress: https://docs.google.com/spreadsheets/d/197U8BGjoNBaUVhm5DrAyyprxQQlAk6ypCyQQxxy11CQ/edit?usp=sharing
 
